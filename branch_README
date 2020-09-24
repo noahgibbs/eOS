@@ -1,0 +1,4 @@
+In addition to what's checked in here, you'll need to do the following to get LPCSSH almost-working.
+
+Copy LPCSSH's include file(s) into the kernellib include dir.
+(optionally) set up a new id_dsa/id_dsa.pub keypair rather than using the default
