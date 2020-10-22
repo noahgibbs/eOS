@@ -1,7 +1,7 @@
 {
     "name": "eOS",
     "version": "1.0.0",
-    "description": "This is a slow-burn rebuild of SkotOS from the folks at ChatTheatre",
+    "description": "A DGD-based game framework from the folks at ChatTheatre",
     "app_root": "root",
     "goods": [
         "https://raw.githubusercontent.com/noahgibbs/DidGood/main/goods/skotos_httpd.goods"
