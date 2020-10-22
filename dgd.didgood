@@ -1,0 +1,20 @@
+[
+    {
+        "unbundled_goods": {
+            "name": "kernellib",
+            "git": {
+                "url": "https://github.com/dworkin/cloud-server.git",
+                "branch": "master"
+            },
+            "paths": {
+                "src/doc/kernel": "doc/kernel",
+                "src/include/kernel": "include/kernel",
+                "src/kernel": "kernel"
+            }
+        }
+    },
+    {
+        "SkotOS HTTPD":
+        "https://raw.githubusercontent.com/noahgibbs/DidGood/main/goods/skotos_httpd.goods"
+    }
+]
