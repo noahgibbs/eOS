@@ -30,4 +30,7 @@
 *.exe
 *.out
 *.app
+
+# DGD Manifest files
 .root
+dgd.config

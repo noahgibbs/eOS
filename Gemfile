@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem "didgood", path: "../DidGood"
+gem "dgd-tools", path: "../dgd-tools"
