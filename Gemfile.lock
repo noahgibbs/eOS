@@ -1,11 +1,15 @@
 PATH
   remote: ../dgd-tools
   specs:
-    dgd-tools (0.1.1)
+    dgd-tools (0.1.7)
+      nokogiri (~> 1.10.5)
 
 GEM
   remote: https://rubygems.org/
   specs:
+    mini_portile2 (2.4.0)
+    nokogiri (1.10.10)
+      mini_portile2 (~> 2.4.0)
 
 PLATFORMS
   ruby
