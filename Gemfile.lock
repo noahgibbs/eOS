@@ -1,21 +1,19 @@
-PATH
-  remote: ../dgd-tools
-  specs:
-    dgd-tools (0.1.7)
-      nokogiri (~> 1.10.5)
-
 GEM
   remote: https://rubygems.org/
   specs:
+    dgd-tools (0.1.7)
+      nokogiri (~> 1.10.5)
+      optimist (~> 3.0.1)
     mini_portile2 (2.4.0)
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
+    optimist (3.0.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  dgd-tools!
+  dgd-tools (>= 0.1.7)
 
 BUNDLED WITH
    2.1.2
