@@ -1,0 +1,19 @@
+{
+    "name": "DGD Manifest Runtime",
+    "version": 0.1.0,
+    "dependencies": {
+        "chattheatre_kernellib": {
+            "url": "https://raw.githubusercontent.com/ChatTheatre/dgd-tools/main/goods/chattheatre_kernellib.goods"
+        }
+    },
+    "git": {
+        "url": "https://github.com/ChatTheatre/eOS.git",
+        "branch": "test_dgd_manifest"
+    },
+    "paths": {
+        "runtime/usr/System/initd.c": "usr/System/initd.c",
+    	"src/include/kernel": "include/kernel",
+    	"src/include/*.h": "include",
+    	"src/kernel": "kernel"
+    }
+}
