@@ -7,7 +7,7 @@
         }
     ],
     "git": {
-        "url": "https://github.com/ChatTheatre/eOS.git",
+        "url": "https://github.com/noahgibbs/eOS.git",
         "branch": "test_dgd_manifest"
     },
     "paths": {
