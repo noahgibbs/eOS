@@ -1,6 +1,6 @@
 {
     "name": "DGD Manifest Runtime",
-    "version": 0.1.0,
+    "version": "0.1.0",
     "dependencies": {
         "chattheatre_kernellib": {
             "url": "https://raw.githubusercontent.com/ChatTheatre/dgd-tools/main/goods/chattheatre_kernellib.goods"
