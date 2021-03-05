@@ -12,8 +12,10 @@
     },
     "paths": {
         "runtime/usr/System/initd.c": "usr/System/initd.c",
-    	"src/include/kernel": "include/kernel",
-    	"src/include/*.h": "include",
-    	"src/kernel": "kernel"
+        "runtime/usr/System/boot.c": "usr/System/boot.c",
+        "runtime/usr/System/include/syslogd.h": "usr/System/include/syslogd.h",
+        "runtime/usr/System/sys/syslogd.c": "usr/System/sys/syslogd.c",
+        "runtime/lib/array.c": "lib/array.c",
+        "runtime/lib/sequencer.c": "lib/sequencer.c"
     }
 }
