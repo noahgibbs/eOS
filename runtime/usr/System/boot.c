@@ -7,7 +7,7 @@
 # include <kernel/access.h>
 # include <kernel/rsrc.h>
 
-# include "include/syslogd.h"
+# include <log/syslogd.h>
 
 inherit access API_ACCESS;
 inherit rsrc API_RSRC;

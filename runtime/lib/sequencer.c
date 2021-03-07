@@ -7,7 +7,7 @@
 **	Copyright Skotos Tech Inc 1999
 */
 
-# include "include/syslogd.h"  /* Oh hey, can't locally include from /lib. Guess it needs to go under /include/Logger/syslogd.h or similar? */
+# include <log/syslogd.h>
 
 private inherit "/lib/array";
 
